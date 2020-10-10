@@ -1,0 +1,134 @@
+/* <style>
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Caveat&display=swap');
+</style> */
+font-family: 'Architects Daughter', cursive;
+font-family: 'Caveat', cursive;
+/* Structure */
+
+body {
+  background-image: url (photo/brick.png);
+  margin: 0; 
+}
+
+header {
+  height: 140px;
+  background-color: gray;
+  background-image:url(photo/brick.png);
+}
+
+main {
+  background-image: url(photo/brick.png);
+}
+
+footer {
+  height: 84px;
+  background-color: gray;
+  background-image: url(photo/brick.png);
+}
+
+wrapper {
+  width: 580px;
+  margin: auto;
+}
+
+img {
+  width:100%;
+}
+
+/* Logo */
+
+header h1 {
+  font-family: 'Architects Daughter', cursive;
+font-family: 'Caveat', cursive;
+  color: white;
+  margin: 0;
+  padding-top:24px;
+  font-size: 48px;
+  text-align: center;
+}
+
+header h2 {
+  font-family: 'Architects Daughter', cursive;
+font-family: 'Caveat', cursive;
+  color: white;
+  margin: 0;
+  padding-top:24px;
+  font-size: 30px;
+  text-align: center;
+}
+
+/* Type */
+
+h1, h2 {
+  color: white;
+  font-family: 'Architects Daughter', cursive;
+font-family: 'Caveat', cursive;
+}
+
+h1 {font-size: 35px;}
+h2{font-size: 35px;}
+
+p, li {
+  font-family: 'Architects Daughter', cursive;
+font-family: 'Caveat', cursive;
+  color: white;
+  font-size: 25px;
+  font-weight: 400;
+    line-height: 25px;
+}
+
+/* ul {} */
+
+/* Bolden Links */
+a {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+a:link{color: white;}
+a:visited{color: rgb(168, 206, 111);}
+a:hover{color: greenyellow;}
+a:active{color:  rgb(133, 186, 55);}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer p {
+  color: white;
+  text-align: center;
+}
+footer a:link {color: white; }
+footer a:visited {color: rgb(168, 206, 111);}
+footer a:hover {color: greenyellow; }
+footer a:active {color:  rgb(133, 186, 55);}
+
+/* Elements */
+
+img, iframe {border-radius: 8px;}
+
+iframe {border: 1px solid black;}
+
+hr {border: .5px black}
+
+/* Spacers */
+
+.gap-sm {
+  height: 50px;
+  width: auto;
+}
+
+.gap-md {
+  height: 100px;
+  width: auto;
+}
+
+.gap-lg {
+  height: 200px;
+  width: auto;
+}
+
+.gap-footer {
+  height: 10px;
+  width: auto;
+}
