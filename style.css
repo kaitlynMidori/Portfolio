@@ -6,7 +6,7 @@ font-family: 'Caveat', cursive;
 /* Structure */
 
 body {
-  background-image: url (photo/brick.png);
+  background-image: url (brick.png);
   margin: 0; 
 }
 
@@ -17,13 +17,13 @@ header {
 }
 
 main {
-  background-image: url(photo/brick.png);
+  background-image: url(brick.png);
 }
 
 footer {
   height: 84px;
   background-color: gray;
-  background-image: url(photo/brick.png);
+  background-image: url(brick.png);
 }
 
 wrapper {
