@@ -53,7 +53,7 @@ font-family: 'Caveat', cursive;
   color: white;
   margin: 0;
   padding-top:24px;
-  font-size: 30px;
+  font-size: 40px;
   text-align: center;
 }
 
@@ -65,14 +65,14 @@ h1, h2 {
 font-family: 'Caveat', cursive;
 }
 
-h1 {font-size: 35px;}
-h2{font-size: 35px;}
+h1 {font-size: 40px;}
+h2{font-size: 40px;}
 
 p, li {
   font-family: 'Architects Daughter', cursive;
 font-family: 'Caveat', cursive;
   color: white;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: 400;
     line-height: 25px;
 }
